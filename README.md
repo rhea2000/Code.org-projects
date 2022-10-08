@@ -16,6 +16,6 @@ My code.org project links
 
 7. Odd or Even App = https://studio.code.org/projects/applab/yU-kydT8H5dg7jsA08le5NpzoCFI_FWP6JdKIf0-rUE
 
-8. Time Table of Number given (For loop) = https://studio.code.org/projects/applab/jcnTPwbrjQwU1qP8e53HCVZznRsjlSCniteffRgVQfI
+8. Times Table of Number given (For loop) = https://studio.code.org/projects/applab/jcnTPwbrjQwU1qP8e53HCVZznRsjlSCniteffRgVQfI
 
 9. Display all numbers divisible by 7 = https://studio.code.org/projects/applab/hAIRlHp0_BCPiFXs3UrW4-_Rkc9Zsg3Dy9F4edfHpVI
