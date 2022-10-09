@@ -16,16 +16,22 @@ My code.org project links
 
 7. Odd or Even App = https://studio.code.org/projects/applab/yU-kydT8H5dg7jsA08le5NpzoCFI_FWP6JdKIf0-rUE
 
-8. Times Table of Number given (For loop) = https://studio.code.org/projects/applab/jcnTPwbrjQwU1qP8e53HCVZznRsjlSCniteffRgVQfI
+8. Times Table of any user input number(For loop) App = https://studio.code.org/projects/applab/jcnTPwbrjQwU1qP8e53HCVZznRsjlSCniteffRgVQfI
 
-9. Display all numbers divisible by 7 = https://studio.code.org/projects/applab/hAIRlHp0_BCPiFXs3UrW4-_Rkc9Zsg3Dy9F4edfHpVI
+9. Display all numbers divisible by 7 within 2 number limits (For loop) App = https://studio.code.org/projects/applab/hAIRlHp0_BCPiFXs3UrW4-_Rkc9Zsg3Dy9F4edfHpVI
 
 10. Catch The Odd Number App = https://studio.code.org/projects/applab/jv9VaMH0ozhDCHPOUU1X6L6DkqlrolNvR-8iRU_yZpo
 
-11. Display all numbers divisible by 5 = https://studio.code.org/projects/applab/LPpCBg2zYxltR5CiBYMvgQEwpRKUIJRjyt03QEUMwME
+11. Display all numbers divisible by 5 App within 2 number limits(while loop) App = https://studio.code.org/projects/applab/LPpCBg2zYxltR5CiBYMvgQEwpRKUIJRjyt03QEUMwME
 
-12. Display all numbers divisible by 3 = https://studio.code.org/projects/applab/dE_FjI6SXTGxqiGiRgoN0KOUoeW4QxRPJVw9AUHadcs
+12. Display all numbers divisible by 3 within any 2 user input number limits (do-while loop) App= 
 
-13. Times Table of Number given (while loop) = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6SRWX4TeJk0wrPpKfqo21FrI
+13. Times Table of any user input number(while loop) App = 
 
-14. Times Table of Number Given (do-while loop ) = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6STDALrguB6Y3SoraRIkqTO8
+14. Times Table of any user input number(do-while loop ) App = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6STDALrguB6Y3SoraRIkqTO8
+
+15. All about frogs App = https://studio.code.org/projects/applab/XIMZfk4Rk0Rcd5ZfkcOUel3zhfsrMBaoZlwP-RWvl80
+
+16. Intro to Coding App = https://studio.code.org/projects/applab/Uk_iGOfLfgcHjn2eVXXvl4rjewM4jp9wOKU7dfnBxTs
+
+17. Fun App = https://studio.code.org/projects/applab/fOvswrLAimjFQoX2tbSMN-i-ydfSHC8Ydi-WqIcwwBM
