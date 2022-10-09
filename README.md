@@ -21,3 +21,11 @@ My code.org project links
 9. Display all numbers divisible by 7 = https://studio.code.org/projects/applab/hAIRlHp0_BCPiFXs3UrW4-_Rkc9Zsg3Dy9F4edfHpVI
 
 10. Catch The Odd Number App = https://studio.code.org/projects/applab/jv9VaMH0ozhDCHPOUU1X6L6DkqlrolNvR-8iRU_yZpo
+
+11. Display all numbers divisible by 5 = https://studio.code.org/projects/applab/LPpCBg2zYxltR5CiBYMvgQEwpRKUIJRjyt03QEUMwME
+
+12. Display all numbers divisible by 3 = https://studio.code.org/projects/applab/dE_FjI6SXTGxqiGiRgoN0KOUoeW4QxRPJVw9AUHadcs
+
+13. Times Table of Number given (while loop) = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6SRWX4TeJk0wrPpKfqo21FrI
+
+14. Times Table of Number Given (do-while loop ) = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6STDALrguB6Y3SoraRIkqTO8
