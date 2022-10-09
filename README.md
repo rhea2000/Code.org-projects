@@ -28,7 +28,7 @@ My code.org project links
 
 13. Times Table of any user input number(while loop) App = 
 
-14. Times Table of any user input number(do-while loop ) App = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6STDALrguB6Y3SoraRIkqTO8
+
 
 15. All about frogs App = https://studio.code.org/projects/applab/XIMZfk4Rk0Rcd5ZfkcOUel3zhfsrMBaoZlwP-RWvl80
 
