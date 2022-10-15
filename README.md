@@ -24,9 +24,9 @@ My code.org project links
 
 11. Display all numbers divisible by 5 App within 2 number limits(while loop) App = https://studio.code.org/projects/applab/LPpCBg2zYxltR5CiBYMvgQEwpRKUIJRjyt03QEUMwME
 
-12. Display all numbers divisible by 3 within any 2 user input number limits (do-while loop) App= 
+12. Display all numbers divisible by 3 within any 2 user input number limits (do-while loop) App= https://studio.code.org/projects/applab/dE_FjI6SXTGxqiGiRgoN0KOUoeW4QxRPJVw9AUHadcs
 
-13. Times Table of any user input number(while loop) App = 
+13. Times Table of any user input number(while loop) App = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6SRWX4TeJk0wrPpKfqo21FrI
 
 
 
