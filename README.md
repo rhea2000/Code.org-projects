@@ -36,6 +36,7 @@ My code.org project links
 
 17. Fun App = https://studio.code.org/projects/applab/fOvswrLAimjFQoX2tbSMN-i-ydfSHC8Ydi-WqIcwwBM
 
+
 18. Basic Calculator Function App = https://studio.code.org/projects/applab/aGwjbbPjB-ozMY5_NvxzUXLlk9WWNlmwmQmzNfuGFEY
 
 19. Times Table for inputed number App = https://studio.code.org/projects/applab/XkCE9jWN2fce_vD26kO47DZMnsBakkKX2Nnpm88bmWo
@@ -44,5 +45,10 @@ My code.org project links
 
 21. Times table for inputed number App DO- While loop = https://studio.code.org/projects/applab/Oe4rSz5i2uLCpaG2xaGqvxXHTxDlLM_1xZFH08ev-cs
 
+22. Display all numbers divisible by 3 within 2 number limits (do-while loop) App = https://studio.code.org/projects/applab/5WxVaxog6DxqjnmJuL-x9ZsknGfqAXBTkUXpSfOuAqA
+
+23.  Display all numbers divisible by 7 within 2 number limits (for loop) App = https://studio.code.org/projects/applab/i9sOo6Fl0fDuepU_sA0ZEh5al1cpeEXC8uZHKaYCsZs
+
+24. Display all numbers divisible by 5 within 2 number limits (while loop) App = https://studio.code.org/projects/applab/HDXCxTYOX0dtIHKcgdU92kZW0VE_CL0cxoHlT4gpCGQ
 
 
