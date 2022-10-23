@@ -29,9 +29,19 @@ My code.org project links
 13. Times Table of any user input number(while loop) App = https://studio.code.org/projects/applab/EewX13xZoJQIoAunIRz6SRWX4TeJk0wrPpKfqo21FrI
 
 
-
+  
 15. All about frogs App = https://studio.code.org/projects/applab/XIMZfk4Rk0Rcd5ZfkcOUel3zhfsrMBaoZlwP-RWvl80
 
 16. Intro to Coding App = https://studio.code.org/projects/applab/Uk_iGOfLfgcHjn2eVXXvl4rjewM4jp9wOKU7dfnBxTs
 
 17. Fun App = https://studio.code.org/projects/applab/fOvswrLAimjFQoX2tbSMN-i-ydfSHC8Ydi-WqIcwwBM
+
+18. Basic Calculator Function App = https://studio.code.org/projects/applab/aGwjbbPjB-ozMY5_NvxzUXLlk9WWNlmwmQmzNfuGFEY
+
+19. Times Table for inputed number App = https://studio.code.org/projects/applab/XkCE9jWN2fce_vD26kO47DZMnsBakkKX2Nnpm88bmWo
+
+20. Times Table for inputed number App While loop = https://studio.code.org/projects/applab/SudpXgNwAIPz2qIc_5gzvBt_xs9X7sDk7Aya8GfsKtk
+
+21. Times table for inputed number App DO- While loop = https://studio.code.org/projects/applab/Oe4rSz5i2uLCpaG2xaGqvxXHTxDlLM_1xZFH08ev-cs
+
+22. 
