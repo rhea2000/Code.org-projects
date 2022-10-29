@@ -39,11 +39,11 @@ My code.org project links
 
 18. Basic Calculator Function App = https://studio.code.org/projects/applab/aGwjbbPjB-ozMY5_NvxzUXLlk9WWNlmwmQmzNfuGFEY
 
-19. Times Table for inputed number App = https://studio.code.org/projects/applab/XkCE9jWN2fce_vD26kO47DZMnsBakkKX2Nnpm88bmWo
+19. Times Table for input number App = https://studio.code.org/projects/applab/XkCE9jWN2fce_vD26kO47DZMnsBakkKX2Nnpm88bmWo
 
-20. Times Table for inputed number App While loop = https://studio.code.org/projects/applab/SudpXgNwAIPz2qIc_5gzvBt_xs9X7sDk7Aya8GfsKtk
+20. Times Table for input number App While loop = https://studio.code.org/projects/applab/SudpXgNwAIPz2qIc_5gzvBt_xs9X7sDk7Aya8GfsKtk
 
-21. Times table for inputed number App DO- While loop = https://studio.code.org/projects/applab/Oe4rSz5i2uLCpaG2xaGqvxXHTxDlLM_1xZFH08ev-cs
+21. Times table for input number App DO- While loop = https://studio.code.org/projects/applab/Oe4rSz5i2uLCpaG2xaGqvxXHTxDlLM_1xZFH08ev-cs
 
 22. Display all numbers divisible by 3 within 2 number limits (do-while loop) App = https://studio.code.org/projects/applab/5WxVaxog6DxqjnmJuL-x9ZsknGfqAXBTkUXpSfOuAqA
 
